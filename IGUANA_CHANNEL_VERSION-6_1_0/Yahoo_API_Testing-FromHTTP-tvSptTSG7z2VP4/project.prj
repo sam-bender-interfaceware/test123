@@ -1,0 +1,17 @@
+{
+    "LocalDependencies": [
+        "YahooOAuth2.lua",
+        "main2.lua"
+    ],
+    "LuaDependencies": [
+        "YahooOAuth2",
+        "store2"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1693242977",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
